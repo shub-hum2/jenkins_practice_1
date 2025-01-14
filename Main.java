@@ -1,7 +1,7 @@
 package jenkins_practice;
 import java.util.Date;
 
-class Main{
+public class Main{
 
     public static void main(String[] args) {
         
